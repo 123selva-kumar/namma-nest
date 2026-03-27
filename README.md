@@ -38,7 +38,7 @@ AI-powered rental house and PG finder for India. Users search for rentals near t
 
 ## Local Setup
 
-### 1. Clone and install
+### 1. Clone and installs
 
 ```bash
 git clone https://github.com/your-username/namma-nest.git
